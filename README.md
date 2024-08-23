@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @lukztm
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning BASIC JAVA
-- 💞️ I’m looking to collaborate on EVERYONE
-- 📫 How to reach me lucastoledomartins@gmail.com
+- 👀 Interested in JAVA
+- 🌱 New learner of JAVA
+- 💞️ Always trying to collaborate on EVERYONE
+- 📫 Reach me on lucastoledomartins@gmail.com
 
 <!---
 lukztm/lukztm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
