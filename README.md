@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukztm
 - 👀 Interested in JAVA
-- 🌱 New learner of JAVA
+- 🌱 New learner
 - 💞️ Always trying to collaborate on EVERYONE
 - 📫 Reach me on lucastoledomartins@gmail.com
 
